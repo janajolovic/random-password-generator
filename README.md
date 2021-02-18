@@ -6,13 +6,13 @@ Strong Password Generator to create **secure passwords** that are impossible to 
 
 ## Table of Contents
 
-- [What is Random Password Generator?](#what-is-random-password-generator)
+  - [What is Random Password Generator?](#what-is-random-password-generator)
   - [Table of Contents](#table-of-contents)
   - [Features](#features)
-    - [TODO](#todo)
+  - [TODO](#todo)
   - [Demo](#demo)
-- [Design Idea](#design-idea)
-- [Development](#development)
+  - [Design Idea](#design-idea)
+  - [Development](#development)
   - [Technologies](#technologies)
   - [Tests](#tests)
 
