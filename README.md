@@ -8,6 +8,7 @@ Strong Password Generator to create **secure passwords** that are impossible to 
 
   - [What is Random Password Generator?](#what-is-random-password-generator)
   - [Table of Contents](#table-of-contents)
+  - [Usage](#usage)
   - [Features](#features)
   - [TODO](#todo)
   - [Demo](#demo)
@@ -17,7 +18,7 @@ Strong Password Generator to create **secure passwords** that are impossible to 
   - [Tests](#tests)
 
 
-#Usage
+# Usage
 
 Download a stable release from 
 [**release**](https://github.com/janajolovic/random-password-generator/releases/download/v1.0/main.exe)
