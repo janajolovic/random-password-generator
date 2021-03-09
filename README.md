@@ -2,7 +2,7 @@
 
 Strong Password Generator to create **secure passwords** that are impossible to crack on your device without sending them across the Internet, and learn over 30 tricks to keep your passwords, accounts and documents safe.
 
-![Random Password Generator](D:\jana\c++\zadaci\zadatak\trougao.png)
+![Random Password Generator](https://myitside.com/password-generator/img/password-generator-banner.png)
 
 ## Table of Contents
 
